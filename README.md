@@ -161,7 +161,7 @@ the KiCad Python console but without the interactive dialog.
 ## Installation
 
 Place the files in the fallowing directories:
-# Windows Path:
+### Windows Path:
 `%APPDATA%\kicad\10.0\plugins\`
-# Linux Path:
+### Linux Path:
 `~/.local/share/kicad/10.0/plugins/`
