@@ -157,3 +157,11 @@ the KiCad Python console but without the interactive dialog.
 |-------------------------|--------------------------------------------|
 | `via_carpet_bomber.py`  | Plugin implementation (`ViaStitcherPlugin`) |
 | `README.md`             | This file                                  |
+
+## Installation
+
+Place the files in the fallowing directories:
+# Windows Path:
+`%APPDATA%\kicad\10.0\plugins\`
+# Linux Path:
+`~/.local/share/kicad/10.0/plugins/`
