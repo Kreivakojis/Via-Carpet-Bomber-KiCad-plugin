@@ -1,4 +1,4 @@
-![til](./banner.png)
+![til](banner.gif)
 
 # Via Stitching — KiCad Plugin - Carpet Bomber
 
