@@ -30,6 +30,9 @@ bounding box.
 
 ## Features
 
+<img width="849" height="453" alt="image" src="https://github.com/user-attachments/assets/0f8114f3-898d-4332-b47b-bbce55e7dd7a" />
+
+
 ### Net-aware collision avoidance
 - Every candidate via position is checked against nearby **pads**,
   **tracks/vias**, and **zones** using KiCad's own hit-testing
