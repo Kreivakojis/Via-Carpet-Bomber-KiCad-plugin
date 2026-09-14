@@ -1,3 +1,5 @@
+![til](./banner.png)
+
 # Via Stitching — KiCad Plugin - Carpet Bomber
 
 A KiCad `ActionPlugin` that fills selected copper zones or footprint areas
