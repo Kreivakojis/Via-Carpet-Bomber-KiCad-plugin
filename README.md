@@ -157,7 +157,7 @@ the KiCad Python console but without the interactive dialog.
 
 | File                    | Purpose                                   |
 |-------------------------|--------------------------------------------|
-| `via_carpet_bomber.py`  | Plugin implementation (`ViaStitcherPlugin`) |
+| `via_carpet_bomber.py`  | Plugin implementation (`ViaCarpetBomberPlugin`) |
 | `README.md`             | This file                                  |
 
 ## Installation
