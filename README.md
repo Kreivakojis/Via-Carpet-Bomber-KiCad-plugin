@@ -30,7 +30,8 @@ bounding box.
 
 ## Features
 
-<img width="849" height="453" alt="image" src="https://github.com/user-attachments/assets/0f8114f3-898d-4332-b47b-bbce55e7dd7a" />
+<img width="877" height="556" alt="image" src="https://github.com/user-attachments/assets/59434b76-c2c8-49d8-b386-dbef3b5896a7" />
+
 
 
 ### Net-aware collision avoidance
