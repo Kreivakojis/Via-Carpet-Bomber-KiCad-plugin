@@ -3,8 +3,7 @@
 # Via Stitching — KiCad Plugin - Carpet Bomber
 
 A KiCad `ActionPlugin` that fills selected copper zones or footprint areas
-with a grid of stitching vias on a chosen net — similar to Altium
-Designer's **"Add Stitching to Net"** tool. Unlike a naive grid fill, it
+with a grid of stitching vias on a chosen net — similar to **"Add Stitching to Net"** tool in other software. Unlike a naive grid fill, it
 actively avoids placing vias on top of pads, tracks, vias, or zones that
 belong to a *different* net.
 
